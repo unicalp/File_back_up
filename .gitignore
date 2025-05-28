@@ -1,0 +1,16 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.userosscache
+*.sln.docstates
+
+# Ignore solution file and sync rules
+FileSync.sln
+my_sync_rules.txt
